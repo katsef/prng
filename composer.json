@@ -1,0 +1,19 @@
+{
+    "name": "webazon/prng",
+    "description": "KISS-PRNG | Простой алгоритм шифрования на основе генератора псевдослучайных чисел",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Webazon\\Prng\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Aleksey Katsef",
+            "email": "aleksey@katse.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
